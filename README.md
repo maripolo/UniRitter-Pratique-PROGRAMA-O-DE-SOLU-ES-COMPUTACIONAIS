@@ -1,0 +1,2 @@
+# UniRitter-Pratique-PROGRAMA-O-DE-SOLU-ES-COMPUTACIONAIS
+Atividade prática da cadeira PROGRAMAÇÃO DE SOLUÇÕES COMPUTACIONAIS
